@@ -1,2 +1,6 @@
+# Excludes files and directories
+
 Lib
 Scripts
+models
+pyvenv.cfg
