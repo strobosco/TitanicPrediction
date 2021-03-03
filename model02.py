@@ -8,7 +8,6 @@ from tensorflow import keras
 from tensorflow.keras import layers
 from tensorflow.keras import regularizers
 from tensorflow.keras.layers.experimental import preprocessing as preprop
-from tensorflow.python.keras.regularizers import Regularizer
 
 #--------------------------------------------------------------
 
